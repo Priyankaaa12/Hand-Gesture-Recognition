@@ -1,4 +1,4 @@
-# Hand-Gesture-Recognition
+# CODECRAFT_ML_04
 A deep learning-based hand gesture recognition system that accurately identifies and classifies different hand gestures from images or video data. This project enables intuitive human-computer interaction and gesture-based control systems using convolutional neural networks (CNNs).
 ✨ Features
 High Accuracy: CNN-based model achieving over 90% validation accuracy
